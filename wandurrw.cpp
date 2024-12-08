@@ -1,4 +1,4 @@
-// wandurr1.cpp - game of wandering around doing stuff
+// wandurrw.cpp - game of wandering around doing stuff
 //   written in c++/ncurses hurr durr
 
 // copyright 2017 inhabited.systems
